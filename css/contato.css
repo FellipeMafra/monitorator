@@ -1,4 +1,5 @@
 .contato {
+    background-color: var(--azul-claro);
     display: flex;
     flex-direction: column;
     align-items: center;
